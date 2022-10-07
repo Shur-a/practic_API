@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticAPI</string>
+    <string name="Hello">Здравстуйте!</string>
+    <string name="joke">Шутки</string>
+    <string name="tales">Свет</string>
+    <string name="replay">Еще</string>
+</resources>
